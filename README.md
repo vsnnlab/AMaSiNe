@@ -7,4 +7,4 @@ Images.zip : https://drive.google.com/file/d/1cQXu-VjTD4Xm3l8SIEDAfOU2wxWqrsjy/v
 
 and unzip the files in the same directory.
 
-Manuals (previous version) is available at : https://drive.google.com/file/d/1s51yHkMfxqANYP9lOEJR8qB88LYWAxJo/view?usp=sharing
+Manuals is available at : https://drive.google.com/file/d/1s51yHkMfxqANYP9lOEJR8qB88LYWAxJo/view?usp=sharing
