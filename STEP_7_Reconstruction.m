@@ -6,7 +6,7 @@ load ANO.mat;
 load Step5_ANO_info.mat;
 load ROI_region_pixels.mat;
 STEP_0_Parameters;
-xy_pix=xy_pix/xy_pix_resc_factor;
+
 
 %% Load Atlases
 [VOL, metaVOL] = nrrdread('ara_nissl_25_2017.nrrd');

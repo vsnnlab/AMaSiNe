@@ -1,3 +1,4 @@
+clear all; close all;
 warning('off')
 STEP_0_Parameters;
 img_name=Img_filename_list;

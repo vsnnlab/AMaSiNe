@@ -1,4 +1,5 @@
 clear all; clc;
+addpath(genpath(pwd))
 load('Step1_Outline_result.mat')
 warning('off')
 STEP_0_Parameters;

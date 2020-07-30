@@ -1,8 +1,8 @@
 warning('off')
-STEP_0_Parameters;
+addpath(genpath(pwd))
 img_name=Img_filename_list;
-
 load('Step1_Outline_result.mat')
+STEP_0_Parameters;
 
 ref_resc=1/0.5;
 downscaled_xy_pix=ref_atlas_vox_res*ref_resc;
