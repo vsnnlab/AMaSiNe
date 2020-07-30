@@ -3,7 +3,7 @@
 
 Version 1.1.1 release! 
 You may find the old version in the following:
-https://github.com/vsnnlab/AMaSiNe/releases/tag/AMaSiNe
+https://github.com/vsnnlab/AMaSiNe/releases
 
 Before use, please download "Core Functions.zip" and "Images.zip" from following
 
