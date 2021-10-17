@@ -22,3 +22,13 @@ Possible questions #2: If you are using Mac environment, you may encounter some 
 such as elastix error or something like "Unrecognized function or variable 'matched_img'".
 In this case, we highly recommend you to use Windows or Linux environment,
 or use previous version of our tool (https://github.com/vsnnlab/AMaSiNe/releases/tag/v1.0)
+
+
+Updates in 17 Oct. 2021
+Several pilot functions are uploaded:
+1) "STEP_4to5B_Axon_Detection.m" detects axon-fibers using luminance thresholding: If you imaged axon fibers, you may try this function.
+The following scripts are "STEP_5B_ForAxon_Transform_and_ROI_drawing.m" and "STEP_7B_Axon_Reconstruction.m"
+
+2) "STEP_7X_Reconstruction_with_ROI_area_and_density.m" calculates number of detected cells, ROI area and density of detected cells in specific ROIs
+in each slice image.
+If you do not need visualization but only excel results were expected, you may skip the STEP8 and use this script.
