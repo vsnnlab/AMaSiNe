@@ -33,7 +33,7 @@ The following scripts are "STEP_5B_ForAxon_Transform_and_ROI_drawing.m" and "STE
 in each slice image.
 If you do not need visualization but only excel results were expected, you may skip the STEP8 and use this script.
 
-Updates in 27 Oct. 202
+Updates in 27 Oct. 2022
 Function "STEP_4B_Determine_Parameter_cell_det_thres" is uploaded.
 This script let you test some cell_det_thres parameters, before you proceed to step4to5_Cell_Detection. 
 You choose a sample image, and let you test several cell_det_thres parameters, and show the results.
