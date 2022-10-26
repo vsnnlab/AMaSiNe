@@ -1,5 +1,5 @@
 # AMaSiNe
-
+This is the script used in "Precise Mapping of Single Neurons by Calibrated 3D Reconstruction of Brain Slices Reveals Topographic Projection in Mouse Visual Cortex" by JH Song, W Choi et al., Cell Reports 2020 (https://doi.org/10.1016/j.celrep.2020.107682)
 
 Version 1.1.1 release! 
 You may find the old version in the following:
@@ -32,3 +32,8 @@ The following scripts are "STEP_5B_ForAxon_Transform_and_ROI_drawing.m" and "STE
 2) "STEP_7X_Reconstruction_with_ROI_area_and_density.m" calculates number of detected cells, ROI area and density of detected cells in specific ROIs
 in each slice image.
 If you do not need visualization but only excel results were expected, you may skip the STEP8 and use this script.
+
+Updates in 27 Oct. 202
+Function "STEP_4B_Determine_Parameter_cell_det_thres" is uploaded.
+This script let you test some cell_det_thres parameters, before you proceed to step4to5_Cell_Detection. 
+You choose a sample image, and let you test several cell_det_thres parameters, and show the results.
